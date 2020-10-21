@@ -14,5 +14,6 @@
 			include("index1.php");
 		}
 	}
+	echo 'Your age is above 18 and your allowed here!'
 ?>
 </center>
